@@ -4,8 +4,6 @@ Atividade avaliativa da disciplina de Aprendizagem de Máquina (Fatec). O notebo
 
 ## Como rodar
 
-Precisa de Python 3 com NumPy e Jupyter:
-
 ```
 pip install numpy notebook
 ```
@@ -17,12 +15,11 @@ git clone https://github.com/Yajoojj/at1-perceptron-knn.git
 cd at1-perceptron-knn
 jupyter notebook at1_am.ipynb
 ```
-
-Com o notebook aberto, usar **Kernel > Restart Kernel and Run All Cells**. Também funciona no VS Code ou no Google Colab.
+.
 
 ## Vídeo de apresentação
 
-Link: (colocar o link aqui)
+Link: 
 
 ## Desafios
 
